@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "n8n-core": "^0.40.0",
-    "n8n-workflow": "^0.36.0"
+    "n8n-core": "^0.149.1",
+    "n8n-workflow": "^0.131.1"
   }
 }
